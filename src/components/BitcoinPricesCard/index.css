@@ -1,0 +1,142 @@
+.bitcoin-prices-cards-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.card-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  margin-top: 20px;
+}
+.crypto-title {
+  color: #b8f947;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.bitcoin-card {
+  border-radius: 10px;
+  padding: 20px;
+  width: 250px;
+  background-color: #1b1b1b;
+}
+.bitcoin-card h2 {
+  margin-bottom: 10px;
+}
+
+.bitcoin-card p {
+  margin: 5px 0;
+}
+.bitcoin-rate {
+  color: #e011dd;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding-left: 8px;
+}
+.bitcoin-price-title {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.bitcoin-symbol-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.bitcoin-symbol {
+  color: #d3c914;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.bitcoin-description {
+  color: #1cdb49;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.bitcoin-code {
+  color: #1f6bb6;
+  font-size: 13px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding-top: 2px;
+  padding-left: 10px;
+}
+.trade-button-1 {
+  background-color: #19622a;
+  border: none;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  color: #ffffff;
+
+  margin-top: 20px;
+}
+.trade-button-2 {
+  background-color: #d4a30fef;
+  border: none;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  color: #ffffff;
+
+  margin-top: 20px;
+}
+.trade-button-3 {
+  background-color: #0fb3d4ef;
+  border: none;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  color: #ffffff;
+
+  margin-top: 20px;
+}
+.bitcoin-logo {
+  height: 35px;
+  width: 35px;
+}
+.bitcoin-logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.info-trade-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.info {
+  margin-top: 20px;
+  padding-left: 10px;
+  color: #1cdb49;
+  height: 30px;
+  width: 30px;
+}
+.info-2 {
+  margin-top: 20px;
+  padding-left: 10px;
+  color: #dbab1c;
+  height: 30px;
+  width: 30px;
+}
+.img-eur {
+  height: 30px;
+  width: 30px;
+}
+.info-3 {
+  margin-top: 20px;
+  padding-left: 10px;
+  color: #1c8bdb;
+  height: 30px;
+  width: 30px;
+}
